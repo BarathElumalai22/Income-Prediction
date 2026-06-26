@@ -1,13 +1,13 @@
 Adult Income Prediction
 📌 Overview
 
-This project builds a Machine Learning model to classify whether an individual's annual income is greater than $50K or <=50K using the Adult Census Income dataset.
+-This project builds a Machine Learning model to classify whether an individual's annual income is greater than $50K or <=50K using the Adult Census Income dataset.
 
-Dataset
-Adult Census Income Dataset
-Type: Supervised Machine Learning
-Problem: Binary Classification
-Features
+-Dataset
+-Adult Census Income Dataset
+-Type: Supervised Machine Learning
+-Problem: Binary Classification
+-Features
 Age
 Workclass
 Education
